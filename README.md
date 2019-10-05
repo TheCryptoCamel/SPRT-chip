@@ -25,8 +25,10 @@ truffle compile
 npm run dev
 
 ### Test Network deployment
-An test LuxProduct (asset) is deployed at (Ropsten Test Network) 
+An test LuxProduct (asset) is deployed at (Ropsten Test Network) address:
+
+0x28Ab5e3e5659022c094Ddd3FE65003E221D8e14b
 
 with transaction:
 
-https://ropsten.etherscan.io/tx/0x413585abf4d273e2fc4ff24a08e4827460e38e9471a8cbe66a485d7611ae041d
+https://ropsten.etherscan.io/tx/0x4a72aa591dfbe98df07a34c8f5a67d8658471745c0c983b70e7054bc4b9d3636

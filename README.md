@@ -24,6 +24,10 @@ truffle compile
 
 npm run dev
 
+## Client mobile app
+
+The directory LMB-Client-Mobile-APP is an separated web application prototype which allows client to check and display information recorded on the blockchain.
+
 ### Test Network deployment
 An test LuxProduct (asset) is deployed at (Ropsten Test Network) address:
 

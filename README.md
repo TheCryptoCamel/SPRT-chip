@@ -1,1 +1,1 @@
-# LMB
+# Luxury Meet Blockchain - LMB project

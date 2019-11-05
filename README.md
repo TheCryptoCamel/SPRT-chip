@@ -1,15 +1,19 @@
-# Luxury Meet Blockchain - Project LMB - Supply Chain
+# SPIRIT chip Blockchain - SPRT chip - Alcohol Supply Chain
 
-Project LMB is a minimum viable prototype for Luxury product tracking with Blockchain technology.
+SPRT chip is a prototype for Alcohol product tracking with Blockchain technology.
 
-It considers three roles in the Luxury asset tracking in supply chain:
+SPRT chip is a blockchain based application that verifies the legitimacy of alcoholic products. Currently, 25.8% of bottles purchased worldwide are illicit. That is equal to one every four bottles are not the product that was intended to be bought. Counterfeiting is a worldwide problem that equals US $19.4 Billion dollars in sales a year.
+
+Illicit alcohol affects many different branches from the companies brand to government taxation and finally the customer. There are five different categories that illicit alcohol falls into such as smuggling, counterfeit, tax leakage, illicit artisanal and surrogate alcohol. Because of this, it is both equally a fiscal and a health problem. 
+
+It considers three roles in the Alcohol asset tracking in supply chain to insure illicit alcohol doesn't end up in consumers hands:
 - Manufacturer
 - Retailers - Distribution Market
 - Final Customer - or Second-hand market
 
 During the different supply chain process, the following information is tracked in the blockchain (as examples):
-- Creation of asset (Luxury product)
-- Change of owner: distribution and transfer from manufacturer to retailers
+- Creation of asset (Beer, Wine or Spirit)
+- Change of owner: distribution and transfer from manufacturer, distributor and to retailers
 - Key product information
 - Owner authorization (only current owner can transfer the ownership to another account)
 
@@ -24,7 +28,7 @@ truffle compile
 
 npm run dev
 
-## Client mobile app
+## Client mobile app (Original project fork will update soon)
 
 The directory LMB-Client-Mobile-APP is an separated web application prototype which allows client to check and display information recorded on the blockchain.
 

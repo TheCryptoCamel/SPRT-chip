@@ -29,7 +29,7 @@ img{max-width:100%;}
 /*end reset*/
 /****-----start-body----****/
 body{
-  background: #402874 !important;
+  background: #f1f1f1 !important;
 	font-family: 'Open Sans', sans-serif;
   background-size:cover;
 
@@ -70,7 +70,7 @@ body h1 {
     padding: 19px 0 6px;
 }
 .contact-form {
-    min-height: 475px;
+    min-height: 450px;
     padding: 2em;
 }
 .contact-text1 {
@@ -132,25 +132,27 @@ input[type="submit"] {
     font-size: 1em;
     font-weight: 600;
     color: #fff;
-    background: #d0d725;
-    border: none;
+    background: #ee795b;
+    border-left: none;
+    border-right: none;
+    border-top: none;
     padding: .7em 2em;
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -o-border-radius: 3px;
     cursor: pointer;
-    border-bottom: 5px solid #AEB32F;
+    border-bottom: 5px solid #ee795b;
     float: right;
-       margin: 1em 0em 0 0em;
+    margin: 1em 0em 0 0em;
 }
 input[type="submit"]:hover {
-  background: #AEB32F;
-  border-bottom:5px solid #d0d725;
-  transition: 0.5s all;
-  -webkit-transition: 0.5s all;
-  -moz-transition: 0.5s all;
-  -o-transition: 0.5s all;
+    background: #ee795b;
+    border-bottom: 5px solid #B84325;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
 }
 .checkbox {
     padding: 8px 0px 0px 22px;
@@ -186,25 +188,27 @@ input[type="radio"], input[type="checkbox"] {
     font-size: 1em;
     font-weight: 600;
     color: #fff;
-    background: #d0d725;
-    border: none;
-padding: .7em 2em;
+    background: #ee795b;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding: .7em 2em;
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -o-border-radius: 3px;
     cursor: pointer;
-    border-bottom: 5px solid #AEB32F;
+    border-bottom: 5px solid #ee795b;
     float: right;
     margin: 12px 0px 0px 0px;
 }
 .submit2 input[type="submit"]:hover {
-  background: #AEB32F;
-  border-bottom:5px solid #d0d725;
-  transition: 0.5s all;
-  -webkit-transition: 0.5s all;
-  -moz-transition: 0.5s all;
-  -o-transition: 0.5s all;
+    background: #ee795b;
+    border-bottom: 5px solid #B84325;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
 }
 .submit5 input[type="submit"] {
     font-size: 1em;
@@ -439,7 +443,7 @@ li.lost {
 }
 .copy-right p a:hover {
 	text-decoration: underline;
-	color:#d0d725;
+	color:#ee795b;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -454,7 +458,7 @@ li.lost {
 	margin:0;
 }
 li.resp-tab-item.resp-tab-active{
-  background: #076D90;
+    background: #ee795b;
 }
 li.resp-tab-item1.resp-tab-active{
   background:#625548 !important;
@@ -465,7 +469,7 @@ li.resp-tab-item1.resp-tab-active{
 }
 
 .resp-tab-item{
-	background:#232323;
+	background:#b84325;
 	font-size: 16px;
 	cursor: pointer;
 	width: 30%;
@@ -674,7 +678,7 @@ ul.cute.cuty li {
 	-ms-transition:0.5s all;
 }
 li.resp-tab-item:hover {
-    background-color: #D0D725;
+    background-color: #ee795b;
     	transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
@@ -696,7 +700,7 @@ li.resp-tab-item:hover {
 .resp-vtabs li.resp-tab-active {
     border: none;
     border-right: none;
-    background-color: #d0d725;
+    background-color: #ee795b;
     position: relative;
     z-index: 1;
     margin-right: -1px !important;
@@ -929,4 +933,3 @@ h2.resp-tab-active {
 	    margin-top: 2.8em;
 	}
 }
-
